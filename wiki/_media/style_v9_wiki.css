@@ -1,0 +1,21 @@
+.nomargin{margin-bottom:0px;margin-top:0px}
+.largetext{font-size:130%}
+table.tableMenu{background-color:#EDEDED;width:100%}
+td.tdMenu{padding:5px;width:90px;font-weight:bold;font-variant:normal;text-decoration:none;color:#FFD700;background-color:#4682B4;vertical-align:top;text-align:center}
+td,th{font-family:Tahoma,Verdana,Arial,Helvetica,sans-serif;font-size:14px}
+a:link{color:#0033FF;text-decoration:none}
+a:visited{color:#0033FF;text-decoration:none}
+a:active{color:#0033FF;text-decoration:none}
+a:hover{color:#0033FF;text-decoration:underline}
+a:link.white{color:#FFD700;font-weight:bold;text-decoration:none}
+a:visited.white{color:#FFD700;font-weight:bold;text-decoration:none}
+a:active.white{color:#FFD700;font-weight:bold;text-decoration:none}
+a:hover.white {color:#FFD700;font-weight:bold;text-decoration:underline}
+a:link.black{color:#000000;text-decoration:none}
+a:visited.black{color:#000000;text-decoration:none}
+a:active.black{color:#000000;text-decoration:none}
+a:hover.black {color:#000000;text-decoration:none}
+a:link.cell{border:0px;display:block;text-decoration:none}
+a:visited.cell{border:0px;display:block;text-decoration:none}
+a:active.cell {border:0px;display:block;text-decoration:none}
+a:hover.cell{color:#66A2D4;border:0px;display:block;text-decoration:underline;background:#66A2D4}
