@@ -97,7 +97,7 @@ body {
 
     font-family: 'Roboto', 'Inconsolata', serif;
     font-size: 1.4rem;
-    //line-height: 1.4em;
+    line-height: 1.7em;
     color: #222;
     padding: 0.6rem 0.9rem;
 }
@@ -353,8 +353,8 @@ code, tt {
     //color: rgba(255, 255, 255, 1);
     color: #fff;
     /*border: 1px solid rgba(0, 0, 0, 0.9);*/
-    background-color: rgba(0, 0, 0, 0.8);
-    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.7);
+    font-weight: normal;
     text-shadow: none !important;
 }
 
@@ -382,11 +382,11 @@ pre {
     //white-space: pre;
     white-space: pre-wrap;
     overflow: auto;
-    background-color: #e0e0e0;
+    background-color: #f3f3f3;
     color: #333;
     border-radius: 2px;
     border: 1px solid #bbb;
-    font-weight: bold;
+    font-weight: normal;
     //text-shadow: 1px 1px rgba(0,0,0,0.6);
 }
 
@@ -404,7 +404,7 @@ pre code, tt {
     background: transparent;
     border: none;
     padding: 0;
-    font-weight: bold;
+    font-weight: normal;
 }
 
 /*.odd .abctune-rendered {
@@ -475,6 +475,7 @@ table {
   min-width: 64%;
   border-collapse: collapse;
   border-spacing: 0;
+  margin: 0 auto;
 }
 
 td, th {
