@@ -350,9 +350,7 @@ code, tt {
     font-size: 1.4rem;
 
     border-radius: 2px;
-    //color: rgba(255, 255, 255, 1);
     color: #fff;
-    /*border: 1px solid rgba(0, 0, 0, 0.9);*/
     background-color: rgba(0, 0, 0, 0.7);
     font-weight: normal;
     text-shadow: none !important;
@@ -360,7 +358,7 @@ code, tt {
 
 code.language-abc {
     display: block;
-    background-color: #333;
+    background-color: #000;
     color: #fff;
     padding: 0.7rem;
 }
@@ -376,18 +374,14 @@ pre {
     padding: 0.5rem;
     font-family: 'Inconsolata', monospace;
     font-size: 1.4rem;
-    //line-height: 1.8rem;
     line-height: normal;
-    //font-weight: 700;
-    //white-space: pre;
     white-space: pre-wrap;
     overflow: auto;
     background-color: #f3f3f3;
-    color: #333;
+    color: #000;
     border-radius: 2px;
     border: 1px solid #ccc;
     font-weight: normal;
-    //text-shadow: 1px 1px rgba(0,0,0,0.6);
 }
 
 
@@ -399,7 +393,7 @@ pre code, tt {
     font-size: inherit;
     white-space: -moz-pre-wrap;
     white-space: pre-wrap;
-    color: #333;
+    color: #000;
     line-height: 1.8rem;
     background: transparent;
     border: none;
